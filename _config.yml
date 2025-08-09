@@ -1,0 +1,40 @@
+# Site settings
+name: PyData Venice
+description: "PyData Venice User Group"
+url: ""
+
+
+# Delete the lines you don't need
+# about 5 elements are recomended
+meetup_page: pydata-venice
+# telegram_username: pydatave
+github_username: pydata-venice
+linkedin_username: pydata-venice
+instagram_username:  pydatave
+twitter_username: PyDataVenice
+youtube_channel: PyDataVenice
+
+avatar: yes
+#avatar_img_path: "imgs/avatar.png"
+# You can link to your GitHub image. That way it will get updated
+# automatically whenever you change your GitHub profile picture
+avatar_img_path: "https://avatars.githubusercontent.com/u/215827669"
+
+
+front_img: no
+front_img_path: "imgs/background.jpg"
+#front_img_path: "https://external.url/image.jpg"
+
+
+favicon_img: yes
+favicon_img_path: "imgs/favicon.ico"
+#favicon_img_path: "https://external.url/favicon.ico"
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+
+# Tracking
+googleAnalitycsID: 
