@@ -7,10 +7,11 @@ url: ""
 # Delete the lines you don't need
 # about 5 elements are recomended
 meetup_page: pydata-venice
-# telegram_username: pydatave
+telegram_username: pydatave
 github_username: pydata-venice
 linkedin_username: pydata-venice
 instagram_username:  pydatave
+mastodon_username: mastodon.social/@pydatave
 twitter_username: PyDataVenice
 youtube_channel: PyDataVenice
 
