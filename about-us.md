@@ -31,6 +31,10 @@ A key point of the group is to keep an academic audience, besides industry pract
 
 Each meetup has **short high-level talks**, where speakers share goals, challenges, failures and achievements, and a **discussion after each talk** on the adopted solution, the choices, doubts and questions. Talks are given **only by practitioners explaining to other practitioners** what they have hands-on experience with, no fluff. Meetups are held **in person** and always also in **streaming**, then saved on [YouTube](https://www.youtube.com/@pydatavenice) for those who come later.
 
+We talk about data science for data scientists, data engineers, ML engineers and AI engineers: from data ingestion, analysis, transformation and visualization to data management and sharing; from classical machine learning to deep learning and generative AI; from AIOps to MLOps, LLMOps and SLMOps. Talks can show code, notebooks, or concepts and best practices, and your thesis is a welcome topic too.
+
+Do you want to give a talk? Send your proposal on [Sessionize](https://sessionize.com/{{ site.sessionize_page }}).
+
 ## Other initiatives
 
 Besides the meetups, we organize thematic workshops, both locally and at conferences together with [PyCon Italia](https://pycon.it/).
@@ -64,6 +68,10 @@ Alessandra ha introdotto due speech per meetup, e lo streaming anche quando il m
 Un punto chiave del gruppo è mantenere un pubblico accademico, oltre che tecnici del settore: tutto sta nel mantenere alto il livello tecnico. I due speech per meetup permettono di raggiungere questo obiettivo: possono esserci speaker di livello differente, con almeno uno accademico o concettualmente avanzato.
 
 Ogni meetup prevede **speech corti ad alto livello**, in cui gli speaker condividono obiettivi, sfide, sconfitte e traguardi, e una **discussione dopo ogni speech** sulla soluzione adottata, sulle scelte, sui dubbi e sulle domande. Gli speech sono tenuti da **soli tecnici che spiegano ad altri tecnici** ciò che hanno toccato con mano, nofuffa. I meetup si svolgono in **presenza** e sempre anche in **streaming**, poi vengono salvati su [YouTube](https://www.youtube.com/@pydatavenice) per i postumi.
+
+Parliamo di data science per data scientist, data engineer, ML engineer e AI engineer: dall'ingestione, analisi, trasformazione e visualizzazione dei dati alla loro gestione e condivisione; dal machine learning classico al deep learning e all'AI generativa; dall'AIOps all'MLOps, LLMOps e SLMOps. I talk possono mostrare codice, notebook, oppure concetti e best practice, e anche la propria tesi è un argomento benvenuto.
+
+Vuoi proporre un talk? Invia la tua proposta su [Sessionize](https://sessionize.com/{{ site.sessionize_page }}).
 
 ## Altre iniziative
 
