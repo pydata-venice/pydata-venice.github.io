@@ -2,7 +2,7 @@
 layout: page
 title: PyData Venice Day
 title_it: PyData Venice Day
-permalink: /pydata-venice-day/
+permalink: /pydata-venice-day-27/
 ---
 
 <div class="lang-en" markdown="1">

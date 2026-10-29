@@ -35,7 +35,7 @@ Each meetup has **short high-level talks**, where speakers share goals, challeng
 
 Besides the meetups, we organize thematic workshops, both locally and at conferences together with [PyCon Italia](https://pycon.it/).
 
-The year 2027 opens with the 30th event of the group: [PyData Venice Day]({{ site.baseurl }}/pydata-venice-day/), the first one-day event.
+The year 2027 opens with the 30th event of the group: [PyData Venice Day]({{ site.baseurl }}/pydata-venice-day-27/), the first one-day event.
 
 </div>
 
@@ -69,6 +69,6 @@ Ogni meetup prevede **speech corti ad alto livello**, in cui gli speaker condivi
 
 Oltre ai meetup, organizziamo workshop tematici, sia in locale sia alle conferenze insieme a [PyCon Italia](https://pycon.it/).
 
-Il 2027 si apre con il trentesimo evento del gruppo: il [PyData Venice Day]({{ site.baseurl }}/pydata-venice-day/), il primo evento di una giornata.
+Il 2027 si apre con il trentesimo evento del gruppo: il [PyData Venice Day]({{ site.baseurl }}/pydata-venice-day-27/), il primo evento di una giornata.
 
 </div>
